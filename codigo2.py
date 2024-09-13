@@ -1,6 +1,6 @@
 #me da la gana de poner otro saludo y mas feo que el que estaba
 
-nombre = "Paquito"
+nombre = "Juan"
 apellido = "Glez"
 
 saludo = "Hola " + nombre + " " + apellido
